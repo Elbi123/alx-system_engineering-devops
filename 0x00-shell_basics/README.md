@@ -1,1 +1,0 @@
-pwd - echoes current working directory
